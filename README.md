@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+⚡I am a software enginer based in Singapore
+
+🔭 I’m currently working on some commissions and personal projects
+
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| C++       |
+|     3| Python    |
+
+</details>
 <!--
 **yiningong/yiningong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
